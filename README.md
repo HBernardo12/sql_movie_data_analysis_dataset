@@ -30,4 +30,4 @@ Neste projeto realizei uma análise de um conjunto de dados sobre filmes, compos
 - **Diferença na Avaliação:** A avaliação média entre espectadores americanos e globais não apresentou grandes diferenças, sugerindo uma percepção relativamente uniforme dos filmes internacionalmente.
 - **Faturamento vs. Avaliação:** Filmes com maior faturamento não necessariamente possuem as melhores avaliações, indicando que sucesso financeiro nem sempre se traduz em reconhecimento crítico.
 
-
+### **_Confira a análise completa no notebook que está nos arquivos!_**
